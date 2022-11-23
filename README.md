@@ -7,7 +7,6 @@ jiyiwong/jiyiwong is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-this is a recreation of wall drawing 391 by Sol Lewitt
 void setup(){
 
 size(600,600);
